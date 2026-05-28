@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchealculate",
+        "uuid": 16125606,
+        "checksum": "0ymgtr"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
